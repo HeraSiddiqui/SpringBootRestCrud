@@ -22,9 +22,7 @@ import com.example.demo.service.StudentService;
 public class StudentController {
 	
 
-	private StudentService service;;
-
-	
+	private StudentService service;
 	
 	public StudentController(StudentService service) {
 		super();
